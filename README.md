@@ -51,7 +51,7 @@ The project is divided into multiple phases:
  #### Dashboard Link: PowerBI Dashboard Link
 ![image](https://github.com/user-attachments/assets/3f121f06-afd2-450e-87dd-c20afe6b323a)
 
- #### Streamlit App Link: 
+ #### Streamlit App Link: https://medicare-anomaly-detection-nlgw.onrender.com
 
 ## Data Sources
 This project utilizes multiple datasets, including:
