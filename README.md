@@ -48,10 +48,12 @@ The project is divided into multiple phases:
   - Observations and insights
   - Recommendations
 
- #### Dashboard Link: PowerBI Dashboard Link
-![image](https://github.com/user-attachments/assets/3f121f06-afd2-450e-87dd-c20afe6b323a)
+ #### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMjkxMDI1NWMtMjU2Yi00MmQxLTk5OTEtN2EyZDQwOTMzNzY3IiwidCI6ImYzMjA5Nzg5LTg5MDEtNGIxNC04OGQyLWMxNDUxY2YwNmNhNSJ9
 
- #### Streamlit App Link: https://medicare-anomaly-detection-nlgw.onrender.com
+ #### Anomaly Detection App: 
+ - Streamlit App Link: https://medicare-anomaly-detection-nlgw.onrender.com
+ - Username: admin
+ - Password: 123
 
 ## Data Sources
 This project utilizes multiple datasets, including:
